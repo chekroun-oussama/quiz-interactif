@@ -1,0 +1,117 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  
+  
+}
+
+.quiz-container {
+   width: 500px; 
+   margin: auto;
+   margin-top: 120px ;
+   margin-top: 100px;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.question {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.choices {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.choice {
+  background: #e0e7ff;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.choice:hover {
+  background: #c7d2fe;
+}
+
+.btn{
+  padding: 10px 20px;
+  border: none;
+  background-color: #3b82f6;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.disabled {
+    pointer-events: none;
+    opacity: 0.8;
+}
+.btn:hover {
+ background:  #3c79dc;
+}
+/* ce btn affiche a la dernier question */
+#btn-termine{
+  display: none;
+}
+/* le resultat */
+#resultat {
+  display: none;
+  background-color: white;
+  border-radius: 16px;
+  padding: 24px;
+  max-width: 500px;
+  margin:auto;
+  margin-top: 200px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.result-container h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: #111827;
+}
+
+.result-container p {
+  font-size: 18px;
+  margin: 8px 0;
+  color: #374151;
+}
+
+.result-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.result-buttons .btn {
+  background-color: #3b82f6;
+  color: white;
+  padding: 10px 18px;
+  margin: 0 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.result-buttons .btn:hover {
+  background-color: #2563eb;
+}

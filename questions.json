@@ -1,0 +1,409 @@
+{
+    "Informatique":[
+        {
+            "question": "Qu'est-ce qu'une base de données ?",
+            "options": [
+                "Un tableau Excel",
+                "Un ensemble structuré de données",
+                "Un fichier texte",
+                "Un logiciel de dessin"
+            ],
+            "correct": "Un ensemble structuré de données"
+        },
+        {
+            "question": "Qu'est-ce qu'un algorithme ?",
+            "options": [
+                "Une erreur du système",
+                "Un langage de programmation",
+                "Une suite d'instructions pour résoudre un problème",
+                "Un logiciel de musique"
+            ],
+            "correct": "Une suite d'instructions pour résoudre un problème"
+        },
+            {
+            "question": "Quel langage est considéré comme un langage compilé ?",
+            "options": ["Python", "JavaScript", "C++", "HTML"],
+            "correct": "C++"
+        },
+        {
+            "question": "Quelle est l'extension d'un fichier JavaScript ?",
+            "options": ["css", "js", "html", "json"],
+            "correct": "js"
+        },
+        {
+            "question": "Que signifie 'HTML' ?",
+            "options": [
+                "HyperText Markup Language",
+                "HighText Machine Language",
+                "Hyperloop Machine Language",
+                "HyperText Markdown Language"
+            ],
+            "correct": "HyperText Markup Language"
+        },
+        {
+            "question": "À quoi sert CSS ?",
+            "options": [
+                "Créer des bases de données",
+                "Donner du style aux pages web",
+                "Programmer des jeux vidéo",
+                "Protéger un site web"
+            ],
+            "correct": "Donner du style aux pages web"
+        },
+        {
+            "question": "Que fait une boucle 'for' ?",
+            "options": [
+                "Elle dessine une forme",
+                "Elle répète une action plusieurs fois",
+                "Elle arrête le programme",
+                "Elle efface la mémoire"
+            ],
+            "correct": "Elle répète une action plusieurs fois"
+        },
+        {
+            "question": "Quel type de base de données utilise des tables ?",
+            "options": ["NoSQL", "CSV", "SQL", "JSON"],
+            "correct": "SQL"
+        },
+        {
+            "question": "Qu'est-ce qu'un bug en informatique ?",
+            "options": [
+                "Un virus",
+                "Un problème ou une erreur dans le code",
+                "Un logiciel de test",
+                "Une fonctionnalité avancée"
+            ],
+            "correct": "Un problème ou une erreur dans le code"
+        },
+        {
+            "question": "Qu'est-ce qu'un 'navigateur web' ?",
+            "options": [
+                "Un moteur de recherche",
+                "Une application pour visiter des sites web",
+                "Un antivirus",
+                "Un système d'exploitation"
+            ],
+            "correct": "Une application pour visiter des sites web"
+        },
+        {
+            "question": "Quel langage est souvent utilisé pour développer des applications Android ?",
+            "options": ["Swift", "Java", "C#", "PHP"],
+            "correct": "Java"
+        },
+        {
+            "question": "Quel est le rôle d'un éditeur de code ?",
+            "options": [
+                "Surfer sur Internet",
+                "Compiler automatiquement les fichiers",
+                "Écrire et modifier du code source",
+                "Créer des vidéos"
+            ],
+            "correct": "Écrire et modifier du code source"
+        },
+        {
+            "question": "Que signifie 'HTTP' ?",
+            "options": [
+                "HyperText Transfer Protocol",
+                "HighText Transfer Program",
+                "HyperTransfer Text Program",
+                "Hyper Transfer Table Protocol"
+            ],
+            "correct": "HyperText Transfer Protocol"
+        },
+        {
+            "question": "Lequel parmi les suivants est un système d'exploitation ?",
+            "options": ["Google Chrome", "Microsoft Word", "Linux", "Adobe Photoshop"],
+            "correct": "Linux"
+        },
+        {
+            "question": "HTML est-il un langage de programmation ?",
+            "options": ["Oui", "Non"],
+            "correct": "Non"
+        },
+        {
+        "question": "Qu'est-ce qu'un processus dans un système d'exploitation ?",
+            "options": [
+                "Une image enregistrée",
+                "Un programme en cours d'exécution",
+                "Un fichier compressé",
+                "Une erreur système"
+            ],
+            "correct": "Un programme en cours d'exécution"
+        },
+        {
+            "question": "Swift est utilisé pour quel système ?",
+            "options": ["Android", "Windows", "iOS", "Linux"],
+            "correct": "iOS"
+        },
+        {
+            "question": "Lequel est un langage bas niveau ?",
+            "options": ["Java", "C", "Python", "Ruby"],
+            "correct": "C"
+        },
+        {
+            "question": "Quel périphérique est un périphérique de sortie ?",
+            "options": ["Écran", "Clavier", "Souris", "Scanner"],
+            "correct": "Écran"
+        },
+        {
+            "question": "Quel langage a été créé par Guido van Rossum ?",
+            "options": ["Python", "Java", "C#", "Ruby"],
+            "correct": "Python"
+        }
+    ],
+
+    "capitales":[
+        {
+            "question": "Quelle est la capitale de l'Allemagne ?",
+            "options": ["Munich", "Berlin", "Hambourg", "Francfort"],
+            "correct": "Berlin"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "options": [
+                "Toronto",
+                "Montréal",
+                "Ottawa",
+                "Vancouver"
+            ],
+            "correct": "Ottawa"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Perth"
+            ],
+            "correct": "Canberra"
+        },
+            {
+            "question": "Quelle est la capitale du Brésil ?",
+            "options": ["Rio de Janeiro", "São Paulo", "Brasilia", "Salvador"],
+            "correct": "Brasilia"
+        },
+        {
+            "question": "Quelle est la capitale de l'Espagne ?",
+            "options": [
+                "Barcelone",
+                "Séville",
+                "Madrid",
+                "Valence"
+            ],
+            "correct": "Madrid"
+        },
+        {
+            "question": "Quelle est la capitale du Japon ?",
+            "options": [
+                "Osaka",
+                "Kyoto",
+                "Tokyo",
+                "Yokohama"
+            ],
+            "correct": "Tokyo"
+        },
+        {
+            "question": "Quelle est la capitale de l'Italie ?",
+            "options": [
+                "Milan",
+                "Rome",
+                "Florence",
+                "Venise"
+            ],
+            "correct": "Rome"
+        },
+        {
+            "question": "Quelle est la capitale de l'Afrique du Sud ? (3 capitales, mais laquelle est administrative ?)",
+            "options": ["Pretoria", "Le Cap", "Johannesburg", "Bloemfontein"],
+            "correct": "Pretoria (Capitale administrative)"
+        },
+        {
+            "question": "Quelle est la capitale de l'Argentine ?",
+            "options": [
+                "Buenos Aires",
+                "Córdoba",
+                "Rosario",
+                "Mendoza"
+            ],
+            "correct": "Buenos Aires"
+        },
+        {
+            "question": "Quelle est la capitale de l'Égypte ?",
+            "options": [
+                "Alexandrie",
+                "Le Caire",
+                "Gizeh",
+                "Louxor"
+            ],
+            "correct": "Le Caire"
+        },
+        {
+            "question": "Quelle est la capitale de la Turquie ?",
+            "options": ["Istanbul", " Ankara", "Izmir", "Antalya"],
+            "correct": "Ankara"
+        },
+        {
+            "question": "Quelle est la capitale de la Suisse ? (Pas la plus grande ville)",
+            "options": [
+                "Zurich",
+                "Genève",
+                "Berne",
+                "Bâle"
+            ],
+            "correct": "Berne"
+        },
+        {
+            "question": "Quelle est la capitale de la Norvège ?",
+            "options": [
+                "Bergen",
+                "Oslo",
+                "Stavanger",
+                "Trondheim"
+            ],
+            "correct": "Oslo"
+        },
+        {
+            "question": "Quelle est la capitale de la Corée du Sud ?",
+            "options": ["Busan", "Séoul", "Incheon", "Daegu"],
+            "correct": "Séoul"
+        },
+        {
+            "question": "Quelle est la capitale du Maroc ?",
+            "options": ["Casablanca", "Marrakech","Rabat", "Fès"],
+            "correct": "Rabat"
+        },
+        {
+        "question": "Quelle est la capitale de la Thaïlande ?",
+            "options": [
+                "Chiang Mai",
+                "Phuket",
+                "Bangkok",
+                "Pattaya"
+            ],
+            "correct": "Bangkok"
+        },
+        {
+            "question": "Quelle est la capitale de la Russie ?",
+            "options": ["Saint-Pétersbourg", "Moscou", "Kazan", "Novossibirsk"],
+            "correct": "Moscou"
+        },
+        {
+            "question": "Quelle est la capitale du Mexique ?",
+            "options": ["Guadalajara", "Monterrey", "Mexico", "Cancún"],
+            "correct": "Mexico"
+        },
+        {
+            "question": "Quelle est la capitale de l'Inde ?",
+            "options": ["Mumbai", "New Delhi", " Bangalore", "Kolkata"],
+            "correct": "New Delhi"
+        },
+        {
+            "question": "Quelle est la capitale de la Belgique ?",
+            "options": ["Anvers", "Bruges", "Bruxelles", "Liège"],
+            "correct": "Bruxelles"
+        }
+    ],
+   "Developpement_Personnel":[
+    {
+      "question": "Quelle qualité est essentielle pour développer la confiance en soi ?",
+      "options": ["La timidité", "L'auto-discipline", "L'orgueil", "La dépendance aux autres"],
+      "correct": "L'auto-discipline"
+    },
+    {
+      "question": "Que signifie sortir de sa zone de confort ?",
+      "options": ["Faire ce que l'on connaît déjà", "Essayer de nouvelles choses", "Se reposer", "Éviter les défis"],
+      "correct": "Essayer de nouvelles choses"
+    },
+    {
+      "question": "Quel est l'objectif de la méthode SMART ?",
+      "options": ["Gérer le stress", "Définir des objectifs clairs", "Faire du sport", "Dormir plus"],
+      "correct": "Définir des objectifs clairs"
+    },
+    {
+      "question": "Quel est un bon moyen de rester motivé ?",
+      "options": ["Se comparer aux autres", "Éviter les objectifs", "Fixer un but clair", "Attendre l'inspiration"],
+      "correct": "Fixer un but clair"
+    },
+    {
+      "question": "Quel livre célèbre aborde les habitudes des personnes efficaces ?",
+      "options": ["Les Misérables", "Les 7 habitudes de ceux qui réussissent tout", "L'Alchimiste", "Le pouvoir du moment présent"],
+      "correct": "Les 7 habitudes de ceux qui réussissent tout"
+    },
+    {
+      "question": "Quel est un bon réflexe face à l'échec ?",
+      "options": ["Se décourager", "Blâmer les autres", "Tirer une leçon", "Abandonner"],
+      "correct": "Tirer une leçon"
+    },
+    {
+      "question": "Quelle est la première étape dans un processus de développement personnel ?",
+      "options": ["Changer les autres", "Se fixer des objectifs irréalistes", "Prendre conscience de soi", "Éviter les responsabilités"],
+      "correct": "Prendre conscience de soi"
+    },
+    {
+      "question": "Quel outil peut aider à mieux gérer son temps ?",
+      "options": ["Laisser-aller", "Télévision", "Agenda ou to-do list", "Procrastination"],
+      "correct": "Agenda ou to-do list"
+    },
+    {
+      "question": "Qu'est-ce que le mindset en développement personnel ?",
+      "options": ["Une technique de respiration", "L'état d'esprit", "Un régime alimentaire", "Une posture physique"],
+      "correct": "L'état d'esprit"
+    },
+    {
+      "question": "Quelle habitude favorise une vie équilibrée ?",
+      "options": ["Le multitâche", "La procrastination", "La gratitude quotidienne", "Le stress permanent"],
+      "correct": "La gratitude quotidienne"
+    },
+    {
+      "question": "Quel est un pilier de la réussite personnelle selon beaucoup de coachs ?",
+      "options": ["Chance", "Réseau social", "Développement de l'intelligence émotionnelle", "Beauté physique"],
+      "correct": "Développement de l'intelligence émotionnelle"
+    },
+    {
+      "question": "Quelle technique est utile pour mieux se connaître ?",
+      "options": ["L'introspection", "Ignorer ses émotions", "Suivre les autres aveuglément", "Regarder la télévision"],
+      "correct": "L'introspection"
+    },
+    {
+      "question": "Pourquoi tenir un journal de bord personnel est utile ?",
+      "options": ["Pour perdre du temps", "Pour se plaindre", "Pour mieux suivre sa progression", "Pour impressionner les autres"],
+      "correct": "Pour mieux suivre sa progression"
+    },
+    {
+      "question": "Quelle émotion est bénéfique si bien maîtrisée ?",
+      "options": ["La jalousie", "La colère explosive", "La peur contrôlée", "La honte"],
+      "correct": "La peur contrôlée"
+    },
+    {
+      "question": "Quelle compétence est clé pour mieux communiquer ?",
+      "options": ["L'agressivité", "L'écoute active", "La domination", "L'évitement"],
+      "correct": "L'écoute active"
+    },
+    {
+      "question": "Pourquoi se fixer des objectifs réalistes est important ?",
+      "options": ["Pour éviter d'agir", "Pour ne rien changer", "Pour rester motivé et avancer progressivement", "Pour se décourager vite"],
+      "correct": "Pour rester motivé et avancer progressivement"
+    },
+    {
+      "question": "Quelle attitude est nuisible à l'estime de soi ?",
+      "options": ["Se valoriser", "Se fixer des limites", "Se critiquer constamment", "Se féliciter"],
+      "correct": "Se critiquer constamment"
+    },
+    {
+      "question": "Que permet la pratique de la pleine conscience ?",
+      "options": ["Rêver plus", "Éviter la réalité", "Vivre dans le moment présent", "Contrôler les autres"],
+      "correct": "Vivre dans le moment présent"
+    },
+    {
+      "question": "Quel est un signe de maturité émotionnelle ?",
+      "options": ["Refuser toute critique", "Accuser les autres", "Reconnaître ses torts", "Toujours avoir raison"],
+      "correct": "Reconnaître ses torts"
+    },
+    {
+      "question": "Qu'est-ce qu'une croyance limitante ?",
+      "options": ["Une loi", "Une vérité scientifique", "Une idée négative qui freine notre progression", "Une qualité personnelle"],
+      "correct": "Une idée négative qui freine notre progression"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Interactif</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="quiz-container">
+    <div class="top-bar">
+      <div id="score">Score : 0</div>
+      <div id="timer">Temps : 30s</div>
+    </div>
+    <div id="question" class="question"></div>
+    <div id="choices" class="choices"></div>
+    <button id="next-btn" class="btn disabled" >Suivant</button>
+
+  </div>
+  <div id="resultat" >
+
+  <h2>Quiz terminé !</h2>
+  <p id="final-score">Votre score : 0</p>
+  <p id="note"></p>
+  <div class="result-buttons">
+    <button id="home-btn" class="btn"> Page d’accueil</button>
+    <button id="voir-reponses-btn" class="btn"> Voir les réponses</button>
+  </div>
+</div>
+
+</body>
+</html>
